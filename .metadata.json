@@ -6,5 +6,8 @@
   {
     "package": "rbmi",
     "oncran": true
+  },
+  {
+    "package": "hermes"
   }
 ]
