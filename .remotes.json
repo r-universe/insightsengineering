@@ -18,6 +18,12 @@
     "from": "teal.modules.clinical"
   },
   {
+    "package": "mmrm",
+    "url": "https://github.com/openpharma/mmrm",
+    "via": ["tern.mmrm"],
+    "from": "tern.mmrm"
+  },
+  {
     "package": "osprey",
     "url": "https://github.com/insightsengineering/osprey",
     "via": ["teal.osprey"],
@@ -454,6 +460,12 @@
     "url": "https://github.com/insightsengineering/tern",
     "via": ["teal.osprey", "osprey"],
     "from": "teal.osprey"
+  },
+  {
+    "package": "tern",
+    "url": "https://github.com/insightsengineering/tern",
+    "via": ["tern.mmrm"],
+    "from": "tern.mmrm"
   },
   {
     "package": "tern.gee",
