@@ -6,6 +6,12 @@
     "from": "teal.goshawk"
   },
   {
+    "package": "hermes",
+    "url": "https://github.com/insightsengineering/hermes",
+    "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
+  },
+  {
     "package": "mmrm",
     "url": "https://github.com/openpharma/mmrm",
     "via": ["teal.modules.clinical", "tern.mmrm"],
@@ -40,6 +46,12 @@
     "url": "https://github.com/insightsengineering/scda",
     "via": ["teal.goshawk"],
     "from": "teal.goshawk"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
   },
   {
     "package": "scda",
@@ -104,6 +116,12 @@
   {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.hermes", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["teal.osprey", "scda"],
     "from": "teal.osprey"
   },
@@ -130,6 +148,12 @@
     "url": "https://github.com/insightsengineering/teal",
     "via": ["teal.modules.clinical"],
     "from": "teal.modules.clinical"
+  },
+  {
+    "package": "teal",
+    "url": "https://github.com/insightsengineering/teal",
+    "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
   },
   {
     "package": "teal",
@@ -188,6 +212,12 @@
   {
     "package": "teal.data",
     "url": "https://github.com/insightsengineering/teal.data",
+    "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.data",
+    "url": "https://github.com/insightsengineering/teal.data",
     "via": ["teal.osprey"],
     "from": "teal.osprey"
   },
@@ -230,6 +260,12 @@
   {
     "package": "teal.logger",
     "url": "https://github.com/insightsengineering/teal.logger",
+    "via": ["teal.modules.hermes", "teal.data"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger",
     "via": ["teal.osprey", "teal.data"],
     "from": "teal.osprey"
   },
@@ -262,6 +298,12 @@
     "url": "https://github.com/insightsengineering/teal.reporter",
     "via": ["teal.modules.clinical"],
     "from": "teal.modules.clinical"
+  },
+  {
+    "package": "teal.reporter",
+    "url": "https://github.com/insightsengineering/teal.reporter",
+    "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
   },
   {
     "package": "teal.reporter",
@@ -338,6 +380,12 @@
   {
     "package": "teal.widgets",
     "url": "https://github.com/insightsengineering/teal.widgets",
+    "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.widgets",
+    "url": "https://github.com/insightsengineering/teal.widgets",
     "via": ["teal.osprey"],
     "from": "teal.osprey"
   },
@@ -370,6 +418,12 @@
     "url": "https://github.com/insightsengineering/tern",
     "via": ["teal.modules.clinical", "tern.gee"],
     "from": "teal.modules.clinical"
+  },
+  {
+    "package": "tern",
+    "url": "https://github.com/insightsengineering/tern",
+    "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
   },
   {
     "package": "tern",
