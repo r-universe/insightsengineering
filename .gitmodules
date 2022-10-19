@@ -130,3 +130,7 @@
 	path = rbmi
 	url = https://github.com/insightsengineering/rbmi
 	branch = v1.2.3
+[submodule "scda.2021"]
+	path = scda.2021
+	url = https://github.com/insightsengineering/scda.2021
+	registered = false
