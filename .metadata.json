@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "rbmi",
+    "oncran": true
+  },
+  {
     "package": "hermes"
   }
 ]
