@@ -129,7 +129,7 @@
 [submodule "tern.mmrm"]
 	path = tern.mmrm
 	url = https://github.com/insightsengineering/tern.mmrm
-	branch = v0.2.1
+	branch = v0.2.2
 [submodule "tern.rbmi"]
 	path = tern.rbmi
 	url = https://github.com/insightsengineering/tern.rbmi
