@@ -13,6 +13,11 @@
 	url = https://github.com/insightsengineering/rbmi
 	shallow = true
 	registered = true
+[submodule "simIDM"]
+	path = simIDM
+	url = https://github.com/insightsengineering/simidm
+	shallow = true
+	registered = true
 [submodule "hermes"]
 	path = hermes
 	url = https://github.com/insightsengineering/hermes

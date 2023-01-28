@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "simIDM",
+    "oncran": true
+  },
+  {
     "package": "hermes"
   }
 ]
