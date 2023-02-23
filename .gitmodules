@@ -13,6 +13,11 @@
 	url = https://github.com/insightsengineering/rbmi
 	shallow = true
 	registered = true
+[submodule "rtables"]
+	path = rtables
+	url = https://github.com/insightsengineering/rtables
+	shallow = true
+	registered = true
 [submodule "simIDM"]
 	path = simIDM
 	url = https://github.com/insightsengineering/simidm

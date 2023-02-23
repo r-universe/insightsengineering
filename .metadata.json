@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "rtables",
+    "oncran": true
+  },
+  {
     "package": "simIDM",
     "oncran": true
   },
