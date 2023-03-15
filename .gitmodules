@@ -3,14 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "rbmi"]
-	path = rbmi
-	url = https://github.com/insightsengineering/rbmi
-	shallow = true
-	registered = true
 [submodule "formatters"]
 	path = formatters
 	url = https://github.com/insightsengineering/formatters
+	shallow = true
+	registered = true
+[submodule "hermes"]
+	path = hermes
+	url = https://github.com/insightsengineering/hermes
+	shallow = true
+	registered = true
+[submodule "rbmi"]
+	path = rbmi
+	url = https://github.com/insightsengineering/rbmi
 	shallow = true
 	registered = true
 [submodule "rtables"]
@@ -21,10 +26,5 @@
 [submodule "simIDM"]
 	path = simIDM
 	url = https://github.com/insightsengineering/simidm
-	shallow = true
-	registered = true
-[submodule "hermes"]
-	path = hermes
-	url = https://github.com/insightsengineering/hermes
 	shallow = true
 	registered = true

@@ -1,10 +1,13 @@
 [
   {
-    "package": "rbmi",
+    "package": "formatters",
     "oncran": true
   },
   {
-    "package": "formatters",
+    "package": "hermes"
+  },
+  {
+    "package": "rbmi",
     "oncran": true
   },
   {
@@ -14,8 +17,5 @@
   {
     "package": "simIDM",
     "oncran": true
-  },
-  {
-    "package": "hermes"
   }
 ]
