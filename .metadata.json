@@ -1,10 +1,10 @@
 [
   {
-    "package": "formatters",
+    "package": "rbmi",
     "oncran": true
   },
   {
-    "package": "rbmi",
+    "package": "formatters",
     "oncran": true
   },
   {
