@@ -8,6 +8,11 @@
 	url = https://github.com/insightsengineering/formatters
 	shallow = true
 	registered = true
+[submodule "ggplot2.utils"]
+	path = ggplot2.utils
+	url = https://github.com/insightsengineering/ggplot2.utils
+	shallow = true
+	registered = true
 [submodule "hermes"]
 	path = hermes
 	url = https://github.com/insightsengineering/hermes
