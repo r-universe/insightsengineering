@@ -20,6 +20,12 @@
   {
     "package": "scda",
     "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.data"],
+    "from": "teal.data"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
     "via": ["teal.osprey"],
     "from": "teal.osprey"
   },
@@ -58,6 +64,12 @@
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["teal"],
     "from": "teal"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.data"],
+    "from": "teal.data"
   },
   {
     "package": "scda.2022",
@@ -130,6 +142,12 @@
     "url": "https://github.com/insightsengineering/teal.logger",
     "via": ["teal", "teal.data"],
     "from": "teal"
+  },
+  {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger",
+    "via": ["teal.data"],
+    "from": "teal.data"
   },
   {
     "package": "teal.logger",
