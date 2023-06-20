@@ -48,3 +48,8 @@
 	url = https://github.com/insightsengineering/simidm
 	shallow = true
 	registered = true
+[submodule "tern"]
+	path = tern
+	url = https://github.com/insightsengineering/tern
+	shallow = true
+	registered = true
