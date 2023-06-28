@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "formatters"]
 	path = formatters
 	url = https://github.com/insightsengineering/formatters
-	shallow = true
-	registered = true
 [submodule "ggplot2.utils"]
 	path = ggplot2.utils
 	url = https://github.com/insightsengineering/ggplot2.utils
-	shallow = true
-	registered = true
 [submodule "hermes"]
 	path = hermes
 	url = https://github.com/insightsengineering/hermes
-	shallow = true
-	registered = true
 [submodule "nestcolor"]
 	path = nestcolor
 	url = https://github.com/insightsengineering/nestcolor
-	shallow = true
-	registered = true
 [submodule "rbmi"]
 	path = rbmi
 	url = https://github.com/insightsengineering/rbmi
-	shallow = true
-	registered = true
 [submodule "rlistings"]
 	path = rlistings
 	url = https://github.com/insightsengineering/rlistings
-	shallow = true
-	registered = true
 [submodule "rtables"]
 	path = rtables
 	url = https://github.com/insightsengineering/rtables
-	shallow = true
-	registered = true
 [submodule "sasr"]
 	path = sasr
 	url = https://github.com/insightsengineering/sasr
-	shallow = true
-	registered = true
 [submodule "simIDM"]
 	path = simIDM
 	url = https://github.com/insightsengineering/simidm
-	shallow = true
-	registered = true
 [submodule "tern"]
 	path = tern
 	url = https://github.com/insightsengineering/tern
-	shallow = true
-	registered = true
