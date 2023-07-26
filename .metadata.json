@@ -32,6 +32,10 @@
     "releasetag": true
   },
   {
+    "package": "teal.modules.general",
+    "releasetag": true
+  },
+  {
     "package": "teal.widgets",
     "releasetag": true
   },

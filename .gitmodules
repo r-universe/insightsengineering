@@ -34,6 +34,10 @@
 	path = teal.modules.clinical
 	url = https://github.com/insightsengineering/teal.modules.clinical
 	branch = v0.8.15
+[submodule "teal.modules.general"]
+	path = teal.modules.general
+	url = https://github.com/insightsengineering/teal.modules.general
+	branch = *release
 [submodule "teal.widgets"]
 	path = teal.widgets
 	url = https://github.com/insightsengineering/teal.widgets
