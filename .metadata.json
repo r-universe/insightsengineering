@@ -1,0 +1,130 @@
+[
+  {
+    "package": "teal",
+    "releasetag": true
+  },
+  {
+    "package": "teal.osprey",
+    "releasetag": true
+  },
+  {
+    "package": "teal.slice",
+    "releasetag": true
+  },
+  {
+    "package": "teal.code",
+    "releasetag": true
+  },
+  {
+    "package": "osprey",
+    "releasetag": true
+  },
+  {
+    "package": "teal.transform",
+    "releasetag": true
+  },
+  {
+    "package": "teal.data",
+    "releasetag": true
+  },
+  {
+    "package": "teal.modules.clinical",
+    "releasetag": true
+  },
+  {
+    "package": "teal.widgets",
+    "releasetag": true
+  },
+  {
+    "package": "teal.reporter",
+    "releasetag": true
+  },
+  {
+    "package": "teal.goshawk",
+    "releasetag": true
+  },
+  {
+    "package": "teal.logger",
+    "releasetag": true
+  },
+  {
+    "package": "tern",
+    "releasetag": true
+  },
+  {
+    "package": "rlistings",
+    "releasetag": true
+  },
+  {
+    "package": "rtables",
+    "releasetag": true
+  },
+  {
+    "package": "teal.modules.hermes",
+    "releasetag": true
+  },
+  {
+    "package": "goshawk",
+    "releasetag": true
+  },
+  {
+    "package": "scda",
+    "releasetag": true
+  },
+  {
+    "package": "teal.modules.helios",
+    "releasetag": true
+  },
+  {
+    "package": "scda.2022",
+    "releasetag": true
+  },
+  {
+    "package": "formatters",
+    "releasetag": true
+  },
+  {
+    "package": "verdepcheck",
+    "releasetag": true
+  },
+  {
+    "package": "random.cdisc.data",
+    "releasetag": true
+  },
+  {
+    "package": "nestcolor",
+    "releasetag": true
+  },
+  {
+    "package": "hermes",
+    "releasetag": true
+  },
+  {
+    "package": "tern.mmrm",
+    "releasetag": true
+  },
+  {
+    "package": "tern.gee",
+    "releasetag": true
+  },
+  {
+    "package": "tern.rbmi",
+    "releasetag": true
+  },
+  {
+    "package": "simIDM",
+    "releasetag": true
+  },
+  {
+    "package": "sasr",
+    "releasetag": true
+  },
+  {
+    "package": "ggplot2.utils",
+    "releasetag": true
+  },
+  {
+    "package": "rbmi",
+    "releasetag": true
+  }
+]
