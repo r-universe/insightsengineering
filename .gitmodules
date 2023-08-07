@@ -2,62 +2,42 @@
 	path = .registry
 	url = https://github.com/insightsengineering/insightsengineering.r-universe.dev
 	branch = HEAD
-[submodule "teal"]
-	path = teal
-	url = https://github.com/insightsengineering/teal
-	branch = v0.13.0
-[submodule "teal.osprey"]
-	path = teal.osprey
-	url = https://github.com/insightsengineering/teal.osprey
-	branch = v0.1.15
-[submodule "teal.slice"]
-	path = teal.slice
-	url = https://github.com/insightsengineering/teal.slice
+[submodule "formatters"]
+	path = formatters
+	url = https://github.com/insightsengineering/formatters
+	branch = v0.5.1
+[submodule "ggplot2.utils"]
+	path = ggplot2.utils
+	url = https://github.com/insightsengineering/ggplot2.utils
 	branch = v0.3.0
-[submodule "teal.code"]
-	path = teal.code
-	url = https://github.com/insightsengineering/teal.code
-	branch = v0.3.0
+[submodule "goshawk"]
+	path = goshawk
+	url = https://github.com/insightsengineering/goshawk
+	branch = v0.1.14
+[submodule "hermes"]
+	path = hermes
+	url = https://github.com/insightsengineering/hermes
+	branch = v0.99.5
+[submodule "mmrm"]
+	path = mmrm
+	url = https://github.com/openpharma/mmrm
+	registered = false
+[submodule "nestcolor"]
+	path = nestcolor
+	url = https://github.com/insightsengineering/nestcolor
+	branch = v0.1.2
 [submodule "osprey"]
 	path = osprey
 	url = https://github.com/insightsengineering/osprey
 	branch = v0.1.15
-[submodule "teal.transform"]
-	path = teal.transform
-	url = https://github.com/insightsengineering/teal.transform
-	branch = v0.3.0
-[submodule "teal.data"]
-	path = teal.data
-	url = https://github.com/insightsengineering/teal.data
-	branch = v0.2.0
-[submodule "teal.modules.clinical"]
-	path = teal.modules.clinical
-	url = https://github.com/insightsengineering/teal.modules.clinical
-	branch = v0.8.15
-[submodule "teal.modules.general"]
-	path = teal.modules.general
-	url = https://github.com/insightsengineering/teal.modules.general
-	branch = v0.2.15
-[submodule "teal.widgets"]
-	path = teal.widgets
-	url = https://github.com/insightsengineering/teal.widgets
-	branch = v0.3.0
-[submodule "teal.reporter"]
-	path = teal.reporter
-	url = https://github.com/insightsengineering/teal.reporter
-	branch = v0.1.1
-[submodule "teal.goshawk"]
-	path = teal.goshawk
-	url = https://github.com/insightsengineering/teal.goshawk
-	branch = v0.1.14
-[submodule "teal.logger"]
-	path = teal.logger
-	url = https://github.com/insightsengineering/teal.logger
-	branch = v0.1.1
-[submodule "tern"]
-	path = tern
-	url = https://github.com/insightsengineering/tern
-	branch = v0.8.5
+[submodule "random.cdisc.data"]
+	path = random.cdisc.data
+	url = https://github.com/insightsengineering/random.cdisc.data
+	branch = v0.3.14
+[submodule "rbmi"]
+	path = rbmi
+	url = https://github.com/insightsengineering/rbmi
+	branch = v1.2.3
 [submodule "rlistings"]
 	path = rlistings
 	url = https://github.com/insightsengineering/rlistings
@@ -66,79 +46,99 @@
 	path = rtables
 	url = https://github.com/insightsengineering/rtables
 	branch = v0.6.2
-[submodule "teal.modules.hermes"]
-	path = teal.modules.hermes
-	url = https://github.com/insightsengineering/teal.modules.hermes
-	branch = v0.1.4
-[submodule "goshawk"]
-	path = goshawk
-	url = https://github.com/insightsengineering/goshawk
-	branch = v0.1.14
-[submodule "scda"]
-	path = scda
-	url = https://github.com/insightsengineering/scda
-	branch = v0.1.6
-[submodule "teal.modules.helios"]
-	path = teal.modules.helios
-	url = https://github.com/insightsengineering/teal.modules.helios
-	branch = *release
-[submodule "scda.2022"]
-	path = scda.2022
-	url = https://github.com/insightsengineering/scda.2022
-	branch = v0.1.5
-[submodule "formatters"]
-	path = formatters
-	url = https://github.com/insightsengineering/formatters
-	branch = v0.5.1
-[submodule "verdepcheck"]
-	path = verdepcheck
-	url = https://github.com/insightsengineering/verdepcheck
-	branch = *release
-[submodule "random.cdisc.data"]
-	path = random.cdisc.data
-	url = https://github.com/insightsengineering/random.cdisc.data
-	branch = v0.3.14
-[submodule "nestcolor"]
-	path = nestcolor
-	url = https://github.com/insightsengineering/nestcolor
-	branch = v0.1.2
-[submodule "hermes"]
-	path = hermes
-	url = https://github.com/insightsengineering/hermes
-	branch = v0.99.5
-[submodule "tern.mmrm"]
-	path = tern.mmrm
-	url = https://github.com/insightsengineering/tern.mmrm
-	branch = v0.2.1
-[submodule "tern.gee"]
-	path = tern.gee
-	url = https://github.com/insightsengineering/tern.gee
-	branch = v0.1.0
-[submodule "tern.rbmi"]
-	path = tern.rbmi
-	url = https://github.com/insightsengineering/tern.rbmi
-	branch = v0.1.2
-[submodule "simIDM"]
-	path = simIDM
-	url = https://github.com/insightsengineering/simIDM
-	branch = v0.0.5
 [submodule "sasr"]
 	path = sasr
 	url = https://github.com/insightsengineering/sasr
 	branch = v0.1.2
-[submodule "ggplot2.utils"]
-	path = ggplot2.utils
-	url = https://github.com/insightsengineering/ggplot2.utils
-	branch = v0.3.0
-[submodule "rbmi"]
-	path = rbmi
-	url = https://github.com/insightsengineering/rbmi
-	branch = v1.2.3
-[submodule "mmrm"]
-	path = mmrm
-	url = https://github.com/openpharma/mmrm
-	registered = false
+[submodule "scda"]
+	path = scda
+	url = https://github.com/insightsengineering/scda
+	branch = v0.1.6
 [submodule "scda.2021"]
 	path = scda.2021
 	url = https://github.com/insightsengineering/scda.2021
 	registered = false
+[submodule "scda.2022"]
+	path = scda.2022
+	url = https://github.com/insightsengineering/scda.2022
+	branch = v0.1.5
+[submodule "simIDM"]
+	path = simIDM
+	url = https://github.com/insightsengineering/simIDM
+	branch = v0.0.5
+[submodule "teal"]
+	path = teal
+	url = https://github.com/insightsengineering/teal
+	branch = v0.13.0
+[submodule "teal.code"]
+	path = teal.code
+	url = https://github.com/insightsengineering/teal.code
+	branch = v0.3.0
+[submodule "teal.data"]
+	path = teal.data
+	url = https://github.com/insightsengineering/teal.data
+	branch = v0.2.0
+[submodule "teal.goshawk"]
+	path = teal.goshawk
+	url = https://github.com/insightsengineering/teal.goshawk
+	branch = v0.1.14
+[submodule "teal.logger"]
+	path = teal.logger
+	url = https://github.com/insightsengineering/teal.logger
+	branch = v0.1.1
+[submodule "teal.modules.clinical"]
+	path = teal.modules.clinical
+	url = https://github.com/insightsengineering/teal.modules.clinical
+	branch = v0.8.15
+[submodule "teal.modules.general"]
+	path = teal.modules.general
+	url = https://github.com/insightsengineering/teal.modules.general
+	branch = v0.2.15
+[submodule "teal.modules.helios"]
+	path = teal.modules.helios
+	url = https://github.com/insightsengineering/teal.modules.helios
+	branch = *release
+[submodule "teal.modules.hermes"]
+	path = teal.modules.hermes
+	url = https://github.com/insightsengineering/teal.modules.hermes
+	branch = v0.1.4
+[submodule "teal.osprey"]
+	path = teal.osprey
+	url = https://github.com/insightsengineering/teal.osprey
+	branch = v0.1.15
+[submodule "teal.reporter"]
+	path = teal.reporter
+	url = https://github.com/insightsengineering/teal.reporter
+	branch = v0.1.1
+[submodule "teal.slice"]
+	path = teal.slice
+	url = https://github.com/insightsengineering/teal.slice
+	branch = v0.3.0
+[submodule "teal.transform"]
+	path = teal.transform
+	url = https://github.com/insightsengineering/teal.transform
+	branch = v0.3.0
+[submodule "teal.widgets"]
+	path = teal.widgets
+	url = https://github.com/insightsengineering/teal.widgets
+	branch = v0.3.0
+[submodule "tern"]
+	path = tern
+	url = https://github.com/insightsengineering/tern
+	branch = v0.8.5
+[submodule "tern.gee"]
+	path = tern.gee
+	url = https://github.com/insightsengineering/tern.gee
+	branch = v0.1.0
+[submodule "tern.mmrm"]
+	path = tern.mmrm
+	url = https://github.com/insightsengineering/tern.mmrm
+	branch = v0.2.1
+[submodule "tern.rbmi"]
+	path = tern.rbmi
+	url = https://github.com/insightsengineering/tern.rbmi
+	branch = v0.1.2
+[submodule "verdepcheck"]
+	path = verdepcheck
+	url = https://github.com/insightsengineering/verdepcheck
+	branch = *release
