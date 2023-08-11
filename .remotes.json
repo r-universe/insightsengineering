@@ -38,12 +38,6 @@
   {
     "package": "scda",
     "url": "https://github.com/insightsengineering/scda",
-    "via": ["osprey"],
-    "from": "osprey"
-  },
-  {
-    "package": "scda",
-    "url": "https://github.com/insightsengineering/scda",
     "via": ["teal"],
     "from": "teal"
   },
@@ -98,12 +92,6 @@
   {
     "package": "scda.2021",
     "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["osprey"],
-    "from": "osprey"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
     "via": ["teal.goshawk"],
     "from": "teal.goshawk"
   },
@@ -124,12 +112,6 @@
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["goshawk", "scda"],
     "from": "goshawk"
-  },
-  {
-    "package": "scda.2022",
-    "url": "https://github.com/insightsengineering/scda.2022",
-    "via": ["osprey", "scda"],
-    "from": "osprey"
   },
   {
     "package": "scda.2022",
@@ -496,12 +478,6 @@
     "url": "https://github.com/insightsengineering/teal.widgets",
     "via": ["teal.transform", "teal.slice"],
     "from": "teal.transform"
-  },
-  {
-    "package": "tern",
-    "url": "https://github.com/insightsengineering/tern",
-    "via": ["osprey"],
-    "from": "osprey"
   },
   {
     "package": "tern",
