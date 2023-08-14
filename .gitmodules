@@ -54,10 +54,6 @@
 	path = scda
 	url = https://github.com/insightsengineering/scda
 	branch = v0.1.6
-[submodule "scda.2021"]
-	path = scda.2021
-	url = https://github.com/insightsengineering/scda.2021
-	registered = false
 [submodule "scda.2022"]
 	path = scda.2022
 	url = https://github.com/insightsengineering/scda.2022
