@@ -69,19 +69,19 @@
 [submodule "teal"]
 	path = teal
 	url = https://github.com/insightsengineering/teal
-	branch = v0.13.0
+	branch = v0.14.0
 [submodule "teal.code"]
 	path = teal.code
 	url = https://github.com/insightsengineering/teal.code
-	branch = v0.3.0
+	branch = v0.4.0
 [submodule "teal.data"]
 	path = teal.data
 	url = https://github.com/insightsengineering/teal.data
-	branch = v0.2.0
+	branch = v0.3.0
 [submodule "teal.goshawk"]
 	path = teal.goshawk
 	url = https://github.com/insightsengineering/teal.goshawk
-	branch = v0.1.14
+	branch = v0.1.15
 [submodule "teal.logger"]
 	path = teal.logger
 	url = https://github.com/insightsengineering/teal.logger
@@ -93,7 +93,7 @@
 [submodule "teal.modules.general"]
 	path = teal.modules.general
 	url = https://github.com/insightsengineering/teal.modules.general
-	branch = v0.2.15
+	branch = v0.2.16
 [submodule "teal.modules.helios"]
 	path = teal.modules.helios
 	url = https://github.com/insightsengineering/teal.modules.helios
@@ -101,27 +101,27 @@
 [submodule "teal.modules.hermes"]
 	path = teal.modules.hermes
 	url = https://github.com/insightsengineering/teal.modules.hermes
-	branch = v0.1.4
+	branch = v0.1.5
 [submodule "teal.osprey"]
 	path = teal.osprey
 	url = https://github.com/insightsengineering/teal.osprey
-	branch = v0.1.15
+	branch = v0.1.16
 [submodule "teal.reporter"]
 	path = teal.reporter
 	url = https://github.com/insightsengineering/teal.reporter
-	branch = v0.1.1
+	branch = v0.2.0
 [submodule "teal.slice"]
 	path = teal.slice
 	url = https://github.com/insightsengineering/teal.slice
-	branch = v0.3.0
+	branch = v0.4.0
 [submodule "teal.transform"]
 	path = teal.transform
 	url = https://github.com/insightsengineering/teal.transform
-	branch = v0.3.0
+	branch = v0.4.0
 [submodule "teal.widgets"]
 	path = teal.widgets
 	url = https://github.com/insightsengineering/teal.widgets
-	branch = v0.3.0
+	branch = v0.4.0
 [submodule "tern"]
 	path = tern
 	url = https://github.com/insightsengineering/tern

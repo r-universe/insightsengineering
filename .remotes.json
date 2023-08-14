@@ -32,12 +32,6 @@
   {
     "package": "scda",
     "url": "https://github.com/insightsengineering/scda",
-    "via": ["teal"],
-    "from": "teal"
-  },
-  {
-    "package": "scda",
-    "url": "https://github.com/insightsengineering/scda",
     "via": ["teal.data"],
     "from": "teal.data"
   },
@@ -100,12 +94,6 @@
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["scda"],
     "from": "scda"
-  },
-  {
-    "package": "scda.2022",
-    "url": "https://github.com/insightsengineering/scda.2022",
-    "via": ["teal"],
-    "from": "teal"
   },
   {
     "package": "scda.2022",
@@ -182,12 +170,6 @@
   {
     "package": "teal.code",
     "url": "https://github.com/insightsengineering/teal.code",
-    "via": ["teal"],
-    "from": "teal"
-  },
-  {
-    "package": "teal.code",
-    "url": "https://github.com/insightsengineering/teal.code",
     "via": ["teal.goshawk"],
     "from": "teal.goshawk"
   },
@@ -214,12 +196,6 @@
     "url": "https://github.com/insightsengineering/teal.code",
     "via": ["teal.transform"],
     "from": "teal.transform"
-  },
-  {
-    "package": "teal.data",
-    "url": "https://github.com/insightsengineering/teal.data",
-    "via": ["teal"],
-    "from": "teal"
   },
   {
     "package": "teal.data",
@@ -262,12 +238,6 @@
     "url": "https://github.com/insightsengineering/teal.data",
     "via": ["teal.transform"],
     "from": "teal.transform"
-  },
-  {
-    "package": "teal.logger",
-    "url": "https://github.com/insightsengineering/teal.logger",
-    "via": ["teal", "teal.data"],
-    "from": "teal"
   },
   {
     "package": "teal.logger",
@@ -320,12 +290,6 @@
   {
     "package": "teal.reporter",
     "url": "https://github.com/insightsengineering/teal.reporter",
-    "via": ["teal"],
-    "from": "teal"
-  },
-  {
-    "package": "teal.reporter",
-    "url": "https://github.com/insightsengineering/teal.reporter",
     "via": ["teal.goshawk"],
     "from": "teal.goshawk"
   },
@@ -356,12 +320,6 @@
   {
     "package": "teal.slice",
     "url": "https://github.com/insightsengineering/teal.slice",
-    "via": ["teal"],
-    "from": "teal"
-  },
-  {
-    "package": "teal.slice",
-    "url": "https://github.com/insightsengineering/teal.slice",
     "via": ["teal.goshawk", "teal.transform"],
     "from": "teal.goshawk"
   },
@@ -386,12 +344,6 @@
   {
     "package": "teal.transform",
     "url": "https://github.com/insightsengineering/teal.transform",
-    "via": ["teal"],
-    "from": "teal"
-  },
-  {
-    "package": "teal.transform",
-    "url": "https://github.com/insightsengineering/teal.transform",
     "via": ["teal.goshawk"],
     "from": "teal.goshawk"
   },
@@ -406,12 +358,6 @@
     "url": "https://github.com/insightsengineering/teal.transform",
     "via": ["teal.modules.general"],
     "from": "teal.modules.general"
-  },
-  {
-    "package": "teal.widgets",
-    "url": "https://github.com/insightsengineering/teal.widgets",
-    "via": ["teal", "teal.slice"],
-    "from": "teal"
   },
   {
     "package": "teal.widgets",
