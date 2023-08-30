@@ -45,7 +45,7 @@
 [submodule "rtables"]
 	path = rtables
 	url = https://github.com/insightsengineering/rtables
-	branch = v0.6.2
+	branch = v0.6.3
 [submodule "sasr"]
 	path = sasr
 	url = https://github.com/insightsengineering/sasr
