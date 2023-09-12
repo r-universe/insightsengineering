@@ -69,7 +69,7 @@
 [submodule "teal.code"]
 	path = teal.code
 	url = https://github.com/insightsengineering/teal.code
-	branch = v0.4.0
+	branch = v0.4.1
 [submodule "teal.data"]
 	path = teal.data
 	url = https://github.com/insightsengineering/teal.data
