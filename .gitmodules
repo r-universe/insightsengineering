@@ -37,7 +37,7 @@
 [submodule "rbmi"]
 	path = rbmi
 	url = https://github.com/insightsengineering/rbmi
-	branch = v0.0.991
+	branch = v1.2.5
 [submodule "rlistings"]
 	path = rlistings
 	url = https://github.com/insightsengineering/rlistings
