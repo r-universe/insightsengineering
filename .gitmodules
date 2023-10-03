@@ -41,7 +41,7 @@
 [submodule "rlistings"]
 	path = rlistings
 	url = https://github.com/insightsengineering/rlistings
-	branch = v0.2.4
+	branch = v0.2.5
 [submodule "rtables"]
 	path = rtables
 	url = https://github.com/insightsengineering/rtables
