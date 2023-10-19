@@ -41,11 +41,11 @@
 [submodule "rlistings"]
 	path = rlistings
 	url = https://github.com/insightsengineering/rlistings
-	branch = v0.2.5
+	branch = v0.2.6
 [submodule "rtables"]
 	path = rtables
 	url = https://github.com/insightsengineering/rtables
-	branch = v0.6.4
+	branch = v0.6.5
 [submodule "sasr"]
 	path = sasr
 	url = https://github.com/insightsengineering/sasr
