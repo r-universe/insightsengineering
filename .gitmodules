@@ -101,7 +101,7 @@
 [submodule "teal.reporter"]
 	path = teal.reporter
 	url = https://github.com/insightsengineering/teal.reporter
-	branch = v0.2.1
+	branch = v0.3.0
 [submodule "teal.slice"]
 	path = teal.slice
 	url = https://github.com/insightsengineering/teal.slice
