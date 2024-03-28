@@ -29,7 +29,7 @@
 [submodule "random.cdisc.data"]
 	path = random.cdisc.data
 	url = https://github.com/insightsengineering/random.cdisc.data
-	branch = v0.3.14
+	branch = v0.3.15
 [submodule "rbmi"]
 	path = rbmi
 	url = https://github.com/insightsengineering/rbmi
