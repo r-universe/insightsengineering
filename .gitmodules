@@ -13,7 +13,7 @@
 [submodule "chevron"]
 	path = chevron
 	url = https://github.com/insightsengineering/chevron
-	branch = *release
+	branch = v0.2.6
 [submodule "dunlin"]
 	path = dunlin
 	url = https://github.com/insightsengineering/dunlin
