@@ -13,7 +13,7 @@
 [submodule "goshawk"]
 	path = goshawk
 	url = https://github.com/insightsengineering/goshawk
-	branch = v0.1.15
+	branch = v0.1.16
 [submodule "hermes"]
 	path = hermes
 	url = https://github.com/insightsengineering/hermes
