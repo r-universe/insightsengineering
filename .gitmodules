@@ -117,7 +117,7 @@
 [submodule "tern"]
 	path = tern
 	url = https://github.com/insightsengineering/tern
-	branch = v0.9.4
+	branch = v0.9.5
 [submodule "tern.gee"]
 	path = tern.gee
 	url = https://github.com/insightsengineering/tern.gee
