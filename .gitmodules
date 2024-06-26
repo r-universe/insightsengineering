@@ -9,7 +9,7 @@
 [submodule "ggplot2.utils"]
 	path = ggplot2.utils
 	url = https://github.com/insightsengineering/ggplot2.utils
-	branch = v0.3.0
+	branch = v0.3.2
 [submodule "goshawk"]
 	path = goshawk
 	url = https://github.com/insightsengineering/goshawk
