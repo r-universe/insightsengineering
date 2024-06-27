@@ -17,7 +17,7 @@
 [submodule "hermes"]
 	path = hermes
 	url = https://github.com/insightsengineering/hermes
-	branch = v1.7.1
+	branch = v1.7.2
 [submodule "nestcolor"]
 	path = nestcolor
 	url = https://github.com/insightsengineering/nestcolor
