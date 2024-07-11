@@ -130,5 +130,21 @@
   {
     "package": "rbmi",
     "releasetag": true
+  },
+  {
+    "package": "cards",
+    "releasetag": true
+  },
+  {
+    "package": "cardx",
+    "releasetag": true
+  },
+  {
+    "package": "chevron",
+    "releasetag": true
+  },
+  {
+    "package": "dunlin",
+    "releasetag": true
   }
 ]

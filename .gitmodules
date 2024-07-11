@@ -2,6 +2,22 @@
 	path = .registry
 	url = https://github.com/insightsengineering/insightsengineering.r-universe.dev
 	branch = HEAD
+[submodule "cards"]
+	path = cards
+	url = https://github.com/insightsengineering/cards
+	branch = *release
+[submodule "cardx"]
+	path = cardx
+	url = https://github.com/insightsengineering/cardx
+	branch = *release
+[submodule "chevron"]
+	path = chevron
+	url = https://github.com/insightsengineering/chevron
+	branch = *release
+[submodule "dunlin"]
+	path = dunlin
+	url = https://github.com/insightsengineering/dunlin
+	branch = *release
 [submodule "formatters"]
 	path = formatters
 	url = https://github.com/insightsengineering/formatters
