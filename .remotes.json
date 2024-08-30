@@ -18,6 +18,12 @@
     "from": "chevron"
   },
   {
+    "package": "pkgcache",
+    "url": "https://github.com/r-lib/pkgcache",
+    "via": ["verdepcheck"],
+    "from": "verdepcheck"
+  },
+  {
     "package": "rlistings",
     "url": "https://github.com/insightsengineering/rlistings",
     "via": ["chevron"],

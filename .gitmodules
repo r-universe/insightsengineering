@@ -42,6 +42,10 @@
 	path = osprey
 	url = https://github.com/insightsengineering/osprey
 	branch = v0.1.16
+[submodule "pkgcache"]
+	path = pkgcache
+	url = https://github.com/r-lib/pkgcache
+	registered = false
 [submodule "random.cdisc.data"]
 	path = random.cdisc.data
 	url = https://github.com/insightsengineering/random.cdisc.data
