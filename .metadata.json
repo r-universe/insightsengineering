@@ -72,23 +72,7 @@
     "releasetag": true
   },
   {
-    "package": "scda",
-    "releasetag": true
-  },
-  {
-    "package": "teal.modules.helios",
-    "releasetag": true
-  },
-  {
-    "package": "scda.2022",
-    "releasetag": true
-  },
-  {
     "package": "formatters",
-    "releasetag": true
-  },
-  {
-    "package": "verdepcheck",
     "releasetag": true
   },
   {

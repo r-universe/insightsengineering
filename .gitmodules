@@ -62,14 +62,10 @@
 	path = sasr
 	url = https://github.com/insightsengineering/sasr
 	branch = v0.1.2
-[submodule "scda"]
-	path = scda
-	url = https://github.com/insightsengineering/scda
-	branch = v0.1.6
 [submodule "scda.2022"]
 	path = scda.2022
 	url = https://github.com/insightsengineering/scda.2022
-	branch = v0.1.5
+	registered = false
 [submodule "simIDM"]
 	path = simIDM
 	url = https://github.com/insightsengineering/simIDM
@@ -102,10 +98,6 @@
 	path = teal.modules.general
 	url = https://github.com/insightsengineering/teal.modules.general
 	branch = v0.3.0
-[submodule "teal.modules.helios"]
-	path = teal.modules.helios
-	url = https://github.com/insightsengineering/teal.modules.helios
-	branch = *release
 [submodule "teal.modules.hermes"]
 	path = teal.modules.hermes
 	url = https://github.com/insightsengineering/teal.modules.hermes
@@ -149,4 +141,4 @@
 [submodule "verdepcheck"]
 	path = verdepcheck
 	url = https://github.com/insightsengineering/verdepcheck
-	branch = *release
+	branch = main
