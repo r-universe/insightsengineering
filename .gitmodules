@@ -21,7 +21,7 @@
 [submodule "formatters"]
 	path = formatters
 	url = https://github.com/insightsengineering/formatters
-	branch = v0.5.8
+	branch = v0.5.9
 [submodule "ggplot2.utils"]
 	path = ggplot2.utils
 	url = https://github.com/insightsengineering/ggplot2.utils
