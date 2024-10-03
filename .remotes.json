@@ -12,6 +12,12 @@
     "from": "chevron"
   },
   {
+    "package": "lzstring",
+    "url": "https://github.com/parmsam/lzstring-r",
+    "via": ["roxy.shinylive"],
+    "from": "roxy.shinylive"
+  },
+  {
     "package": "nestcolor",
     "url": "https://github.com/insightsengineering/nestcolor",
     "via": ["chevron"],

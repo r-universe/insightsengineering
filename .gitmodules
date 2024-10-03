@@ -34,6 +34,10 @@
 	path = hermes
 	url = https://github.com/insightsengineering/hermes
 	branch = v1.7.2
+[submodule "lzstring"]
+	path = lzstring
+	url = https://github.com/parmsam/lzstring-r
+	registered = false
 [submodule "nestcolor"]
 	path = nestcolor
 	url = https://github.com/insightsengineering/nestcolor
