@@ -1,51 +1,15 @@
 [
   {
-    "package": "dunlin",
-    "url": "https://github.com/insightsengineering/dunlin",
-    "via": ["chevron"],
-    "from": "chevron"
-  },
-  {
-    "package": "formatters",
-    "url": "https://github.com/insightsengineering/formatters",
-    "via": ["chevron"],
-    "from": "chevron"
-  },
-  {
     "package": "lzstring",
     "url": "https://github.com/parmsam/lzstring-r",
     "via": ["roxy.shinylive"],
     "from": "roxy.shinylive"
   },
   {
-    "package": "nestcolor",
-    "url": "https://github.com/insightsengineering/nestcolor",
-    "via": ["chevron"],
-    "from": "chevron"
-  },
-  {
     "package": "pkgcache",
     "url": "https://github.com/r-lib/pkgcache",
     "via": ["verdepcheck"],
     "from": "verdepcheck"
-  },
-  {
-    "package": "rlistings",
-    "url": "https://github.com/insightsengineering/rlistings",
-    "via": ["chevron"],
-    "from": "chevron"
-  },
-  {
-    "package": "rtables",
-    "url": "https://github.com/insightsengineering/rtables",
-    "via": ["chevron"],
-    "from": "chevron"
-  },
-  {
-    "package": "tern",
-    "url": "https://github.com/insightsengineering/tern",
-    "via": ["chevron"],
-    "from": "chevron"
   },
   {
     "package": "tern",
