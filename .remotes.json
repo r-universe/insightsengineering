@@ -6,12 +6,6 @@
     "from": "roxy.shinylive"
   },
   {
-    "package": "pkgcache",
-    "url": "https://github.com/r-lib/pkgcache",
-    "via": ["verdepcheck"],
-    "from": "verdepcheck"
-  },
-  {
     "package": "tern",
     "url": "https://github.com/insightsengineering/tern",
     "via": ["tern.rbmi"],
