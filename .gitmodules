@@ -61,7 +61,7 @@
 [submodule "roxy.shinylive"]
 	path = roxy.shinylive
 	url = https://github.com/insightsengineering/roxy.shinylive
-	branch = main
+	branch = v1.0.0
 [submodule "rtables"]
 	path = rtables
 	url = https://github.com/insightsengineering/rtables
