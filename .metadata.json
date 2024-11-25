@@ -130,5 +130,9 @@
   {
     "package": "dunlin",
     "releasetag": true
+  },
+  {
+    "package": "roxy.shinylive",
+    "releasetag": true
   }
 ]
