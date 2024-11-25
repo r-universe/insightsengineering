@@ -1,5 +1,12 @@
 [
   {
+    "package": "rtables",
+    "url": "https://github.com/insightsengineering/rtables",
+    "via": ["rtables.officer"],
+    "branch": "main",
+    "from": "rtables.officer"
+  },
+  {
     "package": "tern",
     "url": "https://github.com/insightsengineering/tern",
     "via": ["tern.rbmi"],
