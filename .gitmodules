@@ -145,7 +145,7 @@
 [submodule "tern.rbmi"]
 	path = tern.rbmi
 	url = https://github.com/insightsengineering/tern.rbmi
-	branch = v0.1.3
+	branch = v0.1.4
 [submodule "verdepcheck"]
 	path = verdepcheck
 	url = https://github.com/insightsengineering/verdepcheck
