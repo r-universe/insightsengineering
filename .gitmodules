@@ -9,7 +9,7 @@
 [submodule "cards"]
 	path = cards
 	url = https://github.com/insightsengineering/cards
-	branch = v0.3.0
+	branch = v0.4.0
 [submodule "cardx"]
 	path = cardx
 	url = https://github.com/insightsengineering/cardx
