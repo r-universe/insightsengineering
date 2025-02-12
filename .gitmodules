@@ -125,7 +125,7 @@
 [submodule "teal.transform"]
 	path = teal.transform
 	url = https://github.com/insightsengineering/teal.transform
-	branch = v0.6.0-rc1
+	branch = v0.6.0
 [submodule "teal.widgets"]
 	path = teal.widgets
 	url = https://github.com/insightsengineering/teal.widgets
