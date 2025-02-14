@@ -85,7 +85,7 @@
 [submodule "teal.code"]
 	path = teal.code
 	url = https://github.com/insightsengineering/teal.code
-	branch = v0.6.1-rc1
+	branch = v0.6.1
 [submodule "teal.data"]
 	path = teal.data
 	url = https://github.com/insightsengineering/teal.data
@@ -97,7 +97,7 @@
 [submodule "teal.logger"]
 	path = teal.logger
 	url = https://github.com/insightsengineering/teal.logger
-	branch = v0.3.2-rc1
+	branch = v0.3.2
 [submodule "teal.modules.clinical"]
 	path = teal.modules.clinical
 	url = https://github.com/insightsengineering/teal.modules.clinical
