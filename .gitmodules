@@ -17,7 +17,7 @@
 [submodule "chevron"]
 	path = chevron
 	url = https://github.com/insightsengineering/chevron
-	branch = v0.2.9-rc1
+	branch = v0.2.9
 [submodule "dunlin"]
 	path = dunlin
 	url = https://github.com/insightsengineering/dunlin
