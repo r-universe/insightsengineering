@@ -17,11 +17,11 @@
 [submodule "chevron"]
 	path = chevron
 	url = https://github.com/insightsengineering/chevron
-	branch = v0.2.9
+	branch = v0.2.10
 [submodule "dunlin"]
 	path = dunlin
 	url = https://github.com/insightsengineering/dunlin
-	branch = v0.1.8
+	branch = v0.1.9
 [submodule "formatters"]
 	path = formatters
 	url = https://github.com/insightsengineering/formatters
