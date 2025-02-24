@@ -33,7 +33,7 @@
 [submodule "goshawk"]
 	path = goshawk
 	url = https://github.com/insightsengineering/goshawk
-	branch = v0.1.18
+	branch = v0.1.19
 [submodule "hermes"]
 	path = hermes
 	url = https://github.com/insightsengineering/hermes
@@ -45,7 +45,7 @@
 [submodule "osprey"]
 	path = osprey
 	url = https://github.com/insightsengineering/osprey
-	branch = v0.1.16
+	branch = v0.1.17
 [submodule "random.cdisc.data"]
 	path = random.cdisc.data
 	url = https://github.com/insightsengineering/random.cdisc.data
