@@ -73,7 +73,7 @@
 [submodule "sasr"]
 	path = sasr
 	url = https://github.com/insightsengineering/sasr
-	branch = v0.1.2
+	branch = v0.1.4
 [submodule "simIDM"]
 	path = simIDM
 	url = https://github.com/insightsengineering/simIDM
