@@ -21,7 +21,7 @@
 [submodule "dunlin"]
 	path = dunlin
 	url = https://github.com/insightsengineering/dunlin
-	branch = v0.1.10-rc1
+	branch = v0.1.10
 [submodule "formatters"]
 	path = formatters
 	url = https://github.com/insightsengineering/formatters
