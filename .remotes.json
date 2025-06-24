@@ -10,5 +10,19 @@
     "url": "https://github.com/insightsengineering/osprey",
     "via": ["teal.osprey"],
     "from": "teal.osprey"
+  },
+  {
+    "package": "rtables",
+    "url": "https://github.com/insightsengineering/rtables",
+    "via": ["chevron"],
+    "branch": "main",
+    "from": "chevron"
+  },
+  {
+    "package": "tern",
+    "url": "https://github.com/insightsengineering/tern",
+    "via": ["chevron"],
+    "branch": "main",
+    "from": "chevron"
   }
 ]
