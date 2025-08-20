@@ -105,7 +105,7 @@
 [submodule "teal.modules.general"]
 	path = teal.modules.general
 	url = https://github.com/insightsengineering/teal.modules.general
-	branch = v0.4.1
+	branch = v0.5.0
 [submodule "teal.modules.hermes"]
 	path = teal.modules.hermes
 	url = https://github.com/insightsengineering/teal.modules.hermes
