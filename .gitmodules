@@ -121,11 +121,11 @@
 [submodule "teal.slice"]
 	path = teal.slice
 	url = https://github.com/insightsengineering/teal.slice
-	branch = v0.6.0
+	branch = v0.7.0
 [submodule "teal.transform"]
 	path = teal.transform
 	url = https://github.com/insightsengineering/teal.transform
-	branch = v0.6.0
+	branch = v0.7.0
 [submodule "teal.widgets"]
 	path = teal.widgets
 	url = https://github.com/insightsengineering/teal.widgets
