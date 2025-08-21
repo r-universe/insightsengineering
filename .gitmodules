@@ -113,7 +113,7 @@
 [submodule "teal.osprey"]
 	path = teal.osprey
 	url = https://github.com/insightsengineering/teal.osprey
-	branch = v0.2.0
+	branch = v0.3.0
 [submodule "teal.reporter"]
 	path = teal.reporter
 	url = https://github.com/insightsengineering/teal.reporter
