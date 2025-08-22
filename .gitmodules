@@ -101,7 +101,7 @@
 [submodule "teal.modules.clinical"]
 	path = teal.modules.clinical
 	url = https://github.com/insightsengineering/teal.modules.clinical
-	branch = v0.10.0
+	branch = v0.11.1
 [submodule "teal.modules.general"]
 	path = teal.modules.general
 	url = https://github.com/insightsengineering/teal.modules.general
