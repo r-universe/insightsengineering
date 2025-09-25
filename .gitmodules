@@ -5,7 +5,7 @@
 [submodule "autoslider.core"]
 	path = autoslider.core
 	url = https://github.com/insightsengineering/autoslider.core
-	branch = v0.3.0
+	branch = v0.3.1
 [submodule "cards"]
 	path = cards
 	url = https://github.com/insightsengineering/cards
