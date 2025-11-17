@@ -81,7 +81,7 @@
 [submodule "teal"]
 	path = teal
 	url = https://github.com/insightsengineering/teal
-	branch = v1.0.0
+	branch = v1.1.0
 [submodule "teal.code"]
 	path = teal.code
 	url = https://github.com/insightsengineering/teal.code
