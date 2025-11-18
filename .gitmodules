@@ -65,7 +65,7 @@
 [submodule "rtables"]
 	path = rtables
 	url = https://github.com/insightsengineering/rtables
-	branch = v0.6.13
+	branch = v0.6.14
 [submodule "rtables.officer"]
 	path = rtables.officer
 	url = https://github.com/insightsengineering/rtables.officer
