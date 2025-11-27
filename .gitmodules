@@ -45,7 +45,7 @@
 [submodule "osprey"]
 	path = osprey
 	url = https://github.com/insightsengineering/osprey
-	branch = v0.1.17
+	branch = v0.1.18
 [submodule "random.cdisc.data"]
 	path = random.cdisc.data
 	url = https://github.com/insightsengineering/random.cdisc.data
