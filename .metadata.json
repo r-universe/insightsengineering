@@ -124,6 +124,10 @@
     "releasetag": true
   },
   {
+    "package": "crane",
+    "releasetag": true
+  },
+  {
     "package": "chevron",
     "releasetag": true
   },
