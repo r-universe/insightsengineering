@@ -17,7 +17,7 @@
 [submodule "chevron"]
 	path = chevron
 	url = https://github.com/insightsengineering/chevron
-	branch = v0.2.12
+	branch = v0.2.12.91-rc1
 [submodule "crane"]
 	path = crane
 	url = https://github.com/insightsengineering/crane
