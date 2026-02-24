@@ -133,7 +133,7 @@
 [submodule "teal.widgets"]
 	path = teal.widgets
 	url = https://github.com/insightsengineering/teal.widgets
-	branch = v0.5.1
+	branch = v0.6.0
 [submodule "tern"]
 	path = tern
 	url = https://github.com/insightsengineering/tern
