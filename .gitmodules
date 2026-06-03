@@ -21,7 +21,7 @@
 [submodule "crane"]
 	path = crane
 	url = https://github.com/insightsengineering/crane
-	branch = vX.Y.Z-rc1
+	branch = v0.3.2
 [submodule "dunlin"]
 	path = dunlin
 	url = https://github.com/insightsengineering/dunlin
