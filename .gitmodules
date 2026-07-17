@@ -9,15 +9,15 @@
 [submodule "cards"]
 	path = cards
 	url = https://github.com/insightsengineering/cards
-	branch = v0.8.1
+	branch = *release
 [submodule "cardx"]
 	path = cardx
 	url = https://github.com/insightsengineering/cardx
-	branch = v0.3.4
+	branch = *release
 [submodule "chevron"]
 	path = chevron
 	url = https://github.com/insightsengineering/chevron
-	branch = v0.2.12.91-rc1
+	branch = v0.2.13
 [submodule "crane"]
 	path = crane
 	url = https://github.com/insightsengineering/crane
@@ -137,7 +137,7 @@
 [submodule "tern"]
 	path = tern
 	url = https://github.com/insightsengineering/tern
-	branch = v0.9.10
+	branch = v0.9.11
 [submodule "tern.gee"]
 	path = tern.gee
 	url = https://github.com/insightsengineering/tern.gee
