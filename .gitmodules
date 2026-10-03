@@ -141,11 +141,11 @@
 [submodule "tern.gee"]
 	path = tern.gee
 	url = https://github.com/insightsengineering/tern.gee
-	branch = v0.1.5
+	branch = v0.1.6
 [submodule "tern.mmrm"]
 	path = tern.mmrm
 	url = https://github.com/insightsengineering/tern.mmrm
-	branch = v0.3.3
+	branch = v0.3.4
 [submodule "tern.rbmi"]
 	path = tern.rbmi
 	url = https://github.com/insightsengineering/tern.rbmi
