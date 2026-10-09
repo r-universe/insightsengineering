@@ -121,7 +121,7 @@
 [submodule "teal.picks"]
 	path = teal.picks
 	url = https://github.com/pharmaverse/teal.picks
-	branch = *release
+	branch = v0.3.1
 [submodule "teal.reporter"]
 	path = teal.reporter
 	url = https://github.com/pharmaverse/teal.reporter
