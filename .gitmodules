@@ -5,7 +5,7 @@
 [submodule "autoslider.core"]
 	path = autoslider.core
 	url = https://github.com/pharmaverse/autoslider.core
-	branch = v0.3.5
+	branch = v0.3.7
 [submodule "cards"]
 	path = cards
 	url = https://github.com/insightsengineering/cards
