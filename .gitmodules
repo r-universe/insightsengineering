@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "autoslider.core"]
 	path = autoslider.core
-	url = https://github.com/insightsengineering/autoslider.core
+	url = https://github.com/pharmaverse/autoslider.core
 	branch = v0.3.5
 [submodule "cards"]
 	path = cards
@@ -28,7 +28,7 @@
 	branch = v0.1.12
 [submodule "formatters"]
 	path = formatters
-	url = https://github.com/insightsengineering/formatters
+	url = https://github.com/pharmaverse/formatters
 	branch = v0.5.13
 [submodule "ggplot2.utils"]
 	path = ggplot2.utils
@@ -56,11 +56,11 @@
 	branch = v0.3.16
 [submodule "rbmi"]
 	path = rbmi
-	url = https://github.com/insightsengineering/rbmi
+	url = https://github.com/openpharma/rbmi
 	branch = v1.7.0
 [submodule "rlistings"]
 	path = rlistings
-	url = https://github.com/insightsengineering/rlistings
+	url = https://github.com/pharmaverse/rlistings
 	branch = v0.2.13
 [submodule "roxy.shinylive"]
 	path = roxy.shinylive
@@ -68,7 +68,7 @@
 	branch = v1.0.0
 [submodule "rtables"]
 	path = rtables
-	url = https://github.com/insightsengineering/rtables
+	url = https://github.com/pharmaverse/rtables
 	branch = v0.6.17
 [submodule "rtables.officer"]
 	path = rtables.officer
@@ -84,15 +84,15 @@
 	branch = v0.1.0
 [submodule "teal"]
 	path = teal
-	url = https://github.com/insightsengineering/teal
+	url = https://github.com/pharmaverse/teal
 	branch = v1.2.1
 [submodule "teal.code"]
 	path = teal.code
-	url = https://github.com/insightsengineering/teal.code
+	url = https://github.com/pharmaverse/teal.code
 	branch = v0.7.2
 [submodule "teal.data"]
 	path = teal.data
-	url = https://github.com/insightsengineering/teal.data
+	url = https://github.com/pharmaverse/teal.data
 	branch = v0.8.1
 [submodule "teal.goshawk"]
 	path = teal.goshawk
@@ -100,7 +100,7 @@
 	branch = v0.6.1
 [submodule "teal.logger"]
 	path = teal.logger
-	url = https://github.com/insightsengineering/teal.logger
+	url = https://github.com/pharmaverse/teal.logger
 	branch = v0.4.2
 [submodule "teal.modules.clinical"]
 	path = teal.modules.clinical
@@ -118,25 +118,29 @@
 	path = teal.osprey
 	url = https://github.com/insightsengineering/teal.osprey
 	branch = v0.5.1
+[submodule "teal.picks"]
+	path = teal.picks
+	url = https://github.com/pharmaverse/teal.picks
+	branch = *release
 [submodule "teal.reporter"]
 	path = teal.reporter
-	url = https://github.com/insightsengineering/teal.reporter
+	url = https://github.com/pharmaverse/teal.reporter
 	branch = v0.6.3
 [submodule "teal.slice"]
 	path = teal.slice
-	url = https://github.com/insightsengineering/teal.slice
+	url = https://github.com/pharmaverse/teal.slice
 	branch = v0.8.2
 [submodule "teal.transform"]
 	path = teal.transform
-	url = https://github.com/insightsengineering/teal.transform
+	url = https://github.com/pharmaverse/teal.transform
 	branch = v0.7.2
 [submodule "teal.widgets"]
 	path = teal.widgets
-	url = https://github.com/insightsengineering/teal.widgets
+	url = https://github.com/pharmaverse/teal.widgets
 	branch = v0.7.0
 [submodule "tern"]
 	path = tern
-	url = https://github.com/insightsengineering/tern
+	url = https://github.com/pharmaverse/tern
 	branch = v0.9.13
 [submodule "tern.gee"]
 	path = tern.gee

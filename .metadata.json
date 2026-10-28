@@ -142,5 +142,9 @@
   {
     "package": "autoslider.core",
     "releasetag": true
+  },
+  {
+    "package": "teal.picks",
+    "releasetag": true
   }
 ]
