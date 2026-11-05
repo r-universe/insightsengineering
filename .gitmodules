@@ -57,7 +57,7 @@
 [submodule "rbmi"]
 	path = rbmi
 	url = https://github.com/openpharma/rbmi
-	branch = v1.7.0
+	branch = v1.7.1
 [submodule "rlistings"]
 	path = rlistings
 	url = https://github.com/pharmaverse/rlistings
